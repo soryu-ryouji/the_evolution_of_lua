@@ -316,6 +316,28 @@ sin = math.sin
 
 在本节中，我们将详细讨论 Lua 某些特性的演变。
 
+### 6.1 Types
+
+### 6.2 Tables
+
+### 6.3 Strings
+
+### 6.4 Block comments
+
+### 6.5 Functions
+
+### 6.6 Lexical scoping
+
+### 6.7 Coroutines
+
+### 6.8 Extensible semantics
+
+### 6.9 C API
+
+### 6.10 Userdata
+
+### 6.11 Reflectivity
+
 ## 7. Retrospect
 
 在本节中，我们对 Lua 的演变过程进行了简要的批评，讨论了哪些方面运作良好，哪些方面我们感到遗憾，以及哪些方面我们并不真正后悔但可以采取不同的做法。
